@@ -1,0 +1,336 @@
+﻿/*
+    Cores
+    -verde: #4caf50;
+
+    Fontes
+    -bitter
+    -arial
+*/
+body {
+    background: #dee2e6;
+    font-family: Arial;
+}
+
+a{
+    color: #000;
+}
+
+p{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+}
+
+a:hover,
+a:active{
+    color: #4caf50;
+    text-decoration: none;
+}
+
+.panel {
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px 15px;
+    box-shadow: 0px 1px 5px 0px #000;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.avatar {
+    background: #4caf50;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+textarea:focus,
+input:focus {
+    outline: none;
+}
+
+.panel #alerta {
+    display: none;
+}
+
+/* NAV BAR */
+nav.menu {
+    position: fixed;
+    display: inline-block;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 22px;
+    text-align: center;
+}
+
+nav.menu .item{
+    padding: 10px 0;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+nav.menu .item:last-child{
+    border: none;
+}
+
+nav.menu .item a:hover i{
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}
+
+/* HEADER PANEL */
+.header-panel {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.header-panel .header-cidade,
+.header-panel .header-search{
+    line-height: 2;
+}
+
+.header-panel .header-search,
+.header-panel .header-sair{
+    display: none;
+}
+
+.header-panel #txtPesquisar{
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    right: 50px;
+    top: 0;
+    border: none;
+    display: none;
+}
+
+/* FEED PANEL */
+.report-panel{
+    padding: 10px 15px 0;
+}
+
+.report-panel .report-user {
+    margin-bottom: 10px;
+}
+
+.report-panel .report-user .report-avatar {
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    vertical-align: middle;
+}
+
+.report-panel .report-user .report-user-label,
+.report-panel .report-comment .report-user-label{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.report-panel .report-user .report-user-label a,
+.report-panel .report-comment .report-user-label a{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.report-panel .report-user .report-user-label p,
+.report-panel .report-comment .report-user-label p{
+    font-weight: normal;
+    font-size: 11px;
+}
+
+.report-panel .report-user .options {
+    float: right;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.report-panel .report-img figure{
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+}
+
+.report-panel .report-badge {
+    margin-top: -35px;
+}
+
+.report-panel .report-badge i{
+    background-color: #ffc107;
+    padding: 25px;
+    border-radius: 50%;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+.report-panel .report-details {
+    margin-top: -25px;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.report-panel .report-details .report-title,
+.report-panel .report-details .report-local{
+    font-size: 20px;
+}
+
+.report-panel .report-details .report-title{
+    display: inline-block;
+    color: #4caf50;
+    margin-bottom: 10px;
+}
+
+.report-panel .report-details .report-local i{
+    color: #4caf50;
+}
+
+.report-panel .report-details .report-description{
+    padding: 15px;
+}
+
+.report-panel .report-info {
+    padding: 10px 0;
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.report-panel .report-comment {
+    padding: 10px;
+    border-bottom: 1px dashed #d5d5d5;
+}
+
+.report-panel .report-comment:last-child{
+    border: none;
+}
+
+.report-panel .report-comment img{
+    width: 45px;
+    vertical-align: top;
+}
+
+.report-panel .report-comment p{
+    font-size: 14px;
+}
+
+.report-panel .report-input {
+    border-top: 1px solid #d5d5d5;
+    padding: 5px;
+}
+
+.report-panel .report-input textarea {
+    width: 93%;
+    border: none;
+    height: 40px;
+    resize: none;
+    overflow-y: hidden;
+}
+
+.report-panel .report-input a{
+    padding: 5px 0;
+}
+
+.report-panel .fas{
+    font-size: 18px;
+}
+
+/* INICIO ========PERFIL=========== */
+.usuario-avatar .avatar {
+    width: 200px;
+    height: 200px;
+    border: 8px solid #fff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.usuario-avatar .avatar:hover{
+    border-color: #4caf50;
+}
+
+.usuario-publicacoes .usuario-publicacao figure {
+    width: 100%;
+    height: 160px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+}
+
+.usuario-publicacoes .publicacao-badge {
+    margin-top: -12px;
+}
+
+#ModalAvatar .custom-file-label::after{
+    content: "Buscar";
+}
+
+/* FIM ========PERFIL=========== */
+
+/* INICIO ========PUBLICACAO=========== */
+
+.panel #fase2{
+    display: none;
+}
+
+.panel #fase3 {
+    display: none;
+}
+
+.panel #imgPublicacao {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    height: 300px;
+    background-size: cover;
+}
+
+.panel .form-control {
+    margin-bottom: -1px;
+    border-radius: 0;
+}
+
+/* FIM ========PUBLICACAO=========== */
+
+/* INICIO ========MAPA=========== */
+
+#map {
+    height: 450px;
+}
+
+/* FIM ========MAPA=========== */
+@media (max-width: 575.98px) {
+    html{
+        margin-bottom: 50px;
+    }
+    .header-panel{
+        margin-bottom: 20px;
+    }
+
+    .report-info {
+        font-size: 15px;
+    }
+
+    nav.menu {
+        bottom: 0;
+        width: 100%;
+        z-index: 1030;
+        border-top: 1px solid #dee2e6;
+    }
+
+    nav.menu .item {
+        padding: 0 18px;
+        display: inline-block;
+        border-bottom: none;
+        border-right: 1px solid #d5d5d5;
+    }
+
+    .report-panel .report-badge i{
+        padding: 20px;
+    }
+}

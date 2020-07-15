@@ -1,0 +1,167 @@
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll.config
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Claims.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Artes Xapecó\Documents\TCC\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll.config
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Claims.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\jorge\Documents\drive_old\tcc\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll.config
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\BusinessLogic.pdb
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.exe.config
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csc.rsp
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.exe.config
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\csi.rsp
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.AppContext.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Console.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Compression.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Claims.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.ValueTuple.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.exe.config
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\vbc.rsp
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\jorge\source\repos\LocalsWebApp\LocalsWebbApp\BusinessLogic\obj\Debug\BusinessLogic.pdb

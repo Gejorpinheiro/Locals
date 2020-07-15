@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connection-Web.config Connection String" description="connection Connection String used in web.config by the application to access the database." defaultValue="Data Source=localsweb.database.windows.net; User Id=gejorpinheir0;Password=Val3tafast; Trusted_Connection=False;Encrypt=True;&#xD;&#xA;     Initial Catalog=Locals;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Artes\ Xapecó\\Documents\\TCC\\LocalsWebbApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connection']/@connectionString" />
+  </parameter>
+</parameters>

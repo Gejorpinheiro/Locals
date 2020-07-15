@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Root.master.cs" Inherits="LocalsWebbApp.Pages.Root" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Add to home screen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Locals">
+    <meta name="msapplication-TileImage" content="../Assets/Imgs/Icons/icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#4caf50">
+
+    <link href="../Plugins/Bootstrap/Content/bootstrap.min.css" rel="stylesheet" />
+    <!-- MELHORAR -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link href="../Assets/Css/Main.css" rel="stylesheet" />
+    <link href="../Assets/Imgs/Icons/ico_16.png" rel="icon" type="image-png" sizes="16x16" />
+    <link href="../Assets/Imgs/Icons/ico_32.png" rel="icon" type="image-png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="../Assets/Imgs/Icons/icon-152x152.png">
+    <link rel="manifest" href="/manifest.json">
+
+    <script src="../Plugins/Bootstrap/Scripts/jquery-3.0.0.min.js"></script>
+    <script src="../Plugins/Bootstrap/Scripts/umd/popper.min.js"></script>
+    <script src="../Plugins/Bootstrap/Scripts/bootstrap.min.js"></script>
+    
+    <script src="../Assets/Scripts/Root.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="menu">
+            <div class="item">
+                <a href="Feed.aspx" data-toggle="tooltip" data-placement="right" title="Feed"><i class="far fa-newspaper"></i></a>
+            </div>
+            <div class="item">
+                <a href="Mapa.aspx" data-toggle="tooltip" data-placement="right" title="Mapa"><i class="far fa-map"></i></a>
+            </div>
+            <div class="item">
+                <a href="Publicacao.aspx" data-toggle="tooltip" data-placement="right" title="Publicar"><i class="far fa-plus-square"></i></a>
+            </div>
+            <div class="item">
+                <a href="Perfil.aspx" data-toggle="tooltip" data-placement="right" title="Perfil"><i class="far fa-user-circle"></i></a>
+            </div>
+        </nav>
+        <div class="container">
+            <div class="row">
+                <div class="panel header-panel col-12 col-sm-10 col-md-7 col-lg-6">
+                    <div class="row">
+                        <div class="col-3 text-left header-logo pr-0">
+                            <img src="../Assets/Imgs/Logo_locals.png" alt="Logo Locals" />
+                        </div>
+                        <div class="col-6 header-cidade">
+                            <asp:Label ID="lblTitle" Text="" runat="server" />
+                        </div>
+                        <div class="col-3 text-right header-search">
+                            <a href="javascript:void(0);" id="pesquisar" data-toggle="tooltip" data-placement="bottom" title="Pesquisar"><i class="fas fa-search-location"></i></a>
+                        </div>
+                        <div class="col-3 text-right header-sair" style="display: none;">
+                            <a href="Login.aspx?logout=true" id="sair" data-toggle="tooltip" data-placement="bottom" title="Sair"><i class="far fa-hand-point-left"></i></a>
+                        </div>
+                        <input type="text" id="txtPesquisar" class="form-control" placeholder="Cidade"/>
+                    </div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+<script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    })
+</script>
+</html>
